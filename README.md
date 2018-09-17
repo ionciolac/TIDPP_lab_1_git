@@ -1,0 +1,2 @@
+# TIDPP_lab_1_git
+laboratorul_1_studierea_git
